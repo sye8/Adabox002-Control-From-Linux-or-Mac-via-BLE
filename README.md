@@ -1,5 +1,7 @@
 # Adabox002-Control-From-Mac-OS-via-BLE
 
+Based on [Adafruit Python BluefruitLE Library](https://github.com/adafruit/Adafruit_Python_BluefruitLE) example `uart_service.py` for macOS
+
 Motor control via Bluetooth is based on sending 4-bit string via `uart.write(<string>)`
 
 Information on this can be found in a mobile app called "Bluefruit"
@@ -22,8 +24,6 @@ Information on this can be found in a mobile app called "Bluefruit"
  
 
 ## MotorControlTest
-
-Based on Adafruit Python BluefruitLE Library example `uart_service.py` for macOS
 
 Sends command for forward, backward, left turn, right turn respectively. Each action is executed for 5 seconds, and will be stopped before next action.
 
