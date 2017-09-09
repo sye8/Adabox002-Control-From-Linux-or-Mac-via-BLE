@@ -38,4 +38,6 @@ Press SPACE for to stop action.
 
 Press key once will put the Adabox002 bot in the action until SPACE is pressed.
 
+Press C to end program and disconnect
+
 
