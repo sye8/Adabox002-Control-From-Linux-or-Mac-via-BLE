@@ -12,6 +12,10 @@
  MIT license, check LICENSE for more information
  All text above, and the splash screen below must be included in
  any redistribution
+
+ Modified by Sifan Ye to speed up and slow down at a lower rate, 
+ to reduce the chance of toppling
+ Spe.13, 2017
 *********************************************************************/
 
 #include <Arduino.h>
