@@ -1,4 +1,4 @@
-# Adabox002-Control-From-Mac-OS-via-BLE
+# Adabox002 Control From Linux/Mac via BLE
 
 Based on [Adafruit Python BluefruitLE Library](https://github.com/adafruit/Adafruit_Python_BluefruitLE) example `uart_service.py` for macOS
 
