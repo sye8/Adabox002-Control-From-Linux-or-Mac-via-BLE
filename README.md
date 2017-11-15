@@ -2,6 +2,8 @@
 
 Based on [Adafruit Python BluefruitLE Library](https://github.com/adafruit/Adafruit_Python_BluefruitLE) example `uart_service.py` for macOS
 
+Library Installation Tutorial [here](https://learn.adafruit.com/bluefruit-le-python-library/installation)
+
 Motor control via Bluetooth is based on sending 4-bit string via `uart.write(<string>)`
 
 Information on this can be found in a mobile app called "Bluefruit"
